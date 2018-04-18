@@ -1,6 +1,6 @@
 {
     "common": {
-        "name": "mclighting",
+        "name": "elzersharkmclighting",
         "version": "0.0.10",
         "news": {
             "0.0.10": {
@@ -44,16 +44,16 @@
                 "nl": "Eerste release"
             }
         },
-		"title": "McLighting adapter",
+		"title": "ElzersharkMcLighting adapter",
         "titleLang": {
-            "en": "McLighting adapter",
-            "de": "McLighting Vorlagenadapter",
-            "ru": "McLighting адаптер",
-            "pt": "Adaptador de McLighting",
-            "nl": "McLighting-adapter",
-            "fr": "McLighting adapter",
-            "it": "McLighting adapter",
-            "es": "McLighting adapter"
+            "en": "ElzersharkMcLighting adapter",
+            "de": "ElzersharkMcLighting Vorlagenadapter",
+            "ru": "ElzersharkMcLighting адаптер",
+            "pt": "Adaptador de ElzersharkMcLighting",
+            "nl": "ElzersharkMcLighting-adapter",
+            "fr": "ElzersharkMcLighting adapter",
+            "it": "ElzersharkMcLighting adapter",
+            "es": "ElzersharkMcLighting adapter"
         },
         "desc": {
             "en": "Control the ESP8266 based multi-client lighting gadget",
@@ -83,9 +83,9 @@
         "icon": "mclighting.png",
         "materialize": true,
         "enabled": false,
-        "extIcon": "https://raw.githubusercontent.com/instalator/ioBroker.mclighting/master/admin/mclighting.png",
+        "extIcon": "https://raw.githubusercontent.com/elzershark/LED-Stripe/master/admin/mclighting.png",
         "keywords": ["mclighting", "rgb", "light", "ws2812", "esp8266"],
-        "readme": "https://github.com/instalator/ioBroker.mclighting/blob/master/README.md",
+        "readme": "https://github.com/elzershark/LED-Stripe/blob/master/README.md",
         "loglevel": "info",
         "type": "lighting"
     },
